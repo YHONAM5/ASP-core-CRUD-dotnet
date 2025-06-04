@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DemoDF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a1436ced69056977d7602cabb73e84fdb632c95")]
 [assembly: System.Reflection.AssemblyProductAttribute("DemoDF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DemoDF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
